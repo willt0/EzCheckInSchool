@@ -73,7 +73,7 @@ Fork的项目->Action->I understand... 开启Actions
 
 ![Donate](https://s1.ax1x.com/2020/09/15/wcPVqP.png)
 
-## 友情链接
+## 友情链接   
 
 https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考
 
