@@ -79,5 +79,5 @@ https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考
 
 https://github.com/LovelyWhite/Haut-AutoCheckin - iOS捷径版
 
-https://github.com/themanforfree/EzCheckInSchool-MultiUser - 多用户想法
+https://github.com/themanforfree/EzCheckInSchool-MultiUser - 多用户想法      
 
